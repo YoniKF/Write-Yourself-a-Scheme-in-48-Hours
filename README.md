@@ -6,7 +6,7 @@ Compile using ```ghc -o scheme Main.hs```.
 Example:
 
 ```
->scheme
+> scheme
 >>> (define (fact n) (if (< n 2) 1 (* n (fact (- n 1)))))
 (lambda ("n") ...)
 >>> (fact 10)
