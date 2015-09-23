@@ -1,7 +1,9 @@
 # Write-Yourself-a-Scheme-in-48-Hours
-My solution of the [Write Yourself a Scheme in 48 Hours](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours) tutorial.
+My solution for the [Write Yourself a Scheme in 48 Hours](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours) tutorial.
 
-Compile using ```ghc -o scheme Main.hs```,
+Compile using ```ghc -o scheme Main.hs```.
+
+Example:
 
 ```
 >scheme
